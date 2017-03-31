@@ -1,0 +1,3 @@
+rootProject.name = 'devopssummitbr17'
+
+include ':app'
